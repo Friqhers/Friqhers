@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am an indie game developer with a strong passion for coding in C++ and creating high-quality games using Unreal Engine. With a focus on innovation and problem-solving, I strive to push the boundaries of game development while continuously improving my skills. I am eager to collaborate with other professionals who share the same passion for creating engaging and impactful gaming experiences.
+
 <!--
 **Friqhers/Friqhers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
